@@ -1,2 +1,2 @@
-# seca-de-nanquim
-Site do coletivo de História em Quadrinhos Seca de Nanquim
+# Seca de Nanquim
+Site PWA do coletivo de História em Quadrinhos Seca de Nanquim
